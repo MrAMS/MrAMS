@@ -2,6 +2,8 @@
 class Me
 {
    public:
+      female* girlFriend;
+   
       fun read();
       fun programe();
       fun watchBangumi();
@@ -13,7 +15,7 @@ class Me
       satisfaction study();
       numbness exam();
       
-      virtual theMeaningOfTheLife createSomethingFun();
+      virtual theMeaningOfLife createSomethingFun();
       
    private:
       string name = "Santiego";
@@ -21,7 +23,7 @@ class Me
       gender sex = male;
       
       state curState = attendUniversity;
-      fields curSciCapacity[][][] = [
+      fields curSciCapacity[][][][] = [
                                 [CS, [Web, [Flask, Django, Bootstrap]], [Algorithm, [OIer]], CV, [App, [Electron, Qt]] ],
                                 [EE, [MCU, [Arduino, stm32, AURIX]] ]
                               ];
