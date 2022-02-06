@@ -29,9 +29,7 @@ class Me
 };
 ```
 
-<a href="https://github.com/MrAMS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAMS&layout=compact" />
-</a>
+*Sorry for the slow response*
 
 <!--
 **MrAMS/MrAMS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
