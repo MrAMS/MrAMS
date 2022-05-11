@@ -2,7 +2,7 @@
 class Me
 {
    public:
-      female* girlFriend;
+      female* girlFriend=&TingLi;
    
       fun read();
       fun programe();
