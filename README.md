@@ -2,7 +2,6 @@
 class Me
 {
    public:
-      female* girlFriend=&TingLi;
    
       fun read();
       fun programe();
@@ -21,6 +20,7 @@ class Me
       string name = "Santiego";
       string precept = "Always listen to heart and create something fun";
       gender sex = male;
+      female* girlFriend=&TingLi;
       
       state curState = attendUniversity;
       fields curSciCapacity[][][][] = [
