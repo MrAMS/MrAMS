@@ -14,7 +14,7 @@ class Me
       satisfaction study();
       numbness exam();
       
-      virtual theMeaningOfLife createSomethingFun();
+      theMeaningOfLife createSomethingFun();
       
    private:
       string name = "Santiego";
