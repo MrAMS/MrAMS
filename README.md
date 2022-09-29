@@ -17,10 +17,10 @@ class Me
       theMeaningOfLife createSomethingFun();
       
    private:
-      string name = "Santiego";
+      string real_name = "QijiaYang";
       string precept = "Always listen to heart and create something fun";
       gender sex = male;
-      female* girlFriend=&TingLi;
+      female* girlFriend = &TingLi;
       
       state curState = attendUniversity;
       fields curSciCapacity[][][][] = [
