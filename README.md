@@ -23,10 +23,6 @@ class Me
       female* girlFriend = &TingLi;
       
       state curState = attendUniversity;
-      fields curSciCapacity[][][][] = [
-                                [CS, [Web, [Flask, Django, Bootstrap]], [Algorithm, [OIer]], CV, [App, [Electron, Qt]] ],
-                                [EE, [MCU, [Arduino, stm32, AURIX]] ]
-                              ];
       
 };
 ```
