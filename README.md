@@ -3,7 +3,7 @@ class Me : Person
 {
    public:
    
-      fun            read();
+      fun😄          read();
       fun            programe();
       fun            watchBangumi();
       fun            art();
@@ -17,6 +17,7 @@ class Me : Person
       theMeaningOfLife✨ createSomethingFun();
       
    private:
+      Me();
       string   real_name    = "QijiaYang";
       string   precept      = "Always listen to heart and create something fun";
       gender   sex          = male;
