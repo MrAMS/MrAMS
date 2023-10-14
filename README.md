@@ -1,28 +1,28 @@
 ```cpp
-class Me
+class Me : Person
 {
    public:
    
-      fun read();
-      fun programe();
-      fun watchBangumi();
-      fun art();
-      fun jog();
-      fun photography();
+      fun            read();
+      fun            programe();
+      fun            watchBangumi();
+      fun            art();
+      fun            jog();
+      fun            photography();
       
-      fun learnNewSkill();
-      satisfaction study();
-      numbness exam();
+      fun            learnNewSkill();
+      satisfaction🌱 study();
+      numbness😧     exam();
       
-      theMeaningOfLife createSomethingFun();
+      theMeaningOfLife✨ createSomethingFun();
       
    private:
-      string real_name = "QijiaYang";
-      string precept = "Always listen to heart and create something fun";
-      gender sex = male;
-      female* girlFriend = &TingLi;
+      string   real_name    = "QijiaYang";
+      string   precept      = "Always listen to heart and create something fun";
+      gender   sex          = male;
+      female*  girl_friend  = &TingLi;
       
-      state curState = attendUniversity;
+      state    curState     = attendUniversity;
       
 };
 ```
