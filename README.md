@@ -1,7 +1,7 @@
 <h3 align="center"> 👋 Hello! I'm Santiego. </h3>
 
 <p align="center">
-[Personal website](https://www.santiego.ink/)
+ <a href="https://www.santiego.ink" target="_blank">Personal website</a>
 </p>
 
 ```cpp
@@ -10,7 +10,7 @@ theMeaningOfLife✨ createSomethingFun();
 
 ---
 ```
-**Played**:
+Played:
  - Architecture
    - RISC-V
  - DIP/CG
@@ -21,7 +21,7 @@ theMeaningOfLife✨ createSomethingFun();
    - BLDC motor driver
  - Web
    - Flask, Django, Vue.js, Docker
-**Now focus on**:
+Now fcus on:
  - RISC-V CPU
  - Digital Rock Modeling
 ```
