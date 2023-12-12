@@ -1,34 +1,25 @@
-```cpp
-class Me : Person
-{
-   public:
-   
-      fun😄          read();
-      fun            programe();
-      fun            watchBangumi();
-      fun            art();
-      fun            jog();
-      fun            photography();
-      
-      fun            learnNewSkill();
-      satisfaction🌱 study();
-      numbness😧     exam();
-      
-      theMeaningOfLife✨ createSomethingFun();
-      
-   private:
-      Me();
-      string   real_name    = "QijiaYang";
-      string   precept      = "Always listen to heart and create something fun";
-      gender   sex          = male;
-      female*  girl_friend  = &TingLi;
-      
-      state    curState     = attendUniversity;
-      
-};
-```
+👋 Hello! I'm Santiego.
 
-*Sorry for the slow response*
+```cpp
+theMeaningOfLife✨ createSomethingFun();
+```
+---
+
+Played:
+
+ - Architecture
+   - RISC-V
+ - DIP/CG
+   - OpenCV, OpenGL, OpenVR
+ - Embeded
+   - STM32, AURIX, WCH
+
+ - PCB Design
+   - BLDC motor driver
+ - Web
+   - Flask, Django, Vue.js
+
+[Personal website](https://www.santiego.ink/)
 
 <!--
 **MrAMS/MrAMS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
