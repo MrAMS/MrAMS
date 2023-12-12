@@ -1,25 +1,26 @@
 👋 Hello! I'm Santiego.
 
+
+[Personal website](https://www.santiego.ink/)
+
 ```cpp
 theMeaningOfLife✨ createSomethingFun();
 ```
 ---
-
+```
 Played:
-
  - Architecture
    - RISC-V
  - DIP/CG
    - OpenCV, OpenGL, OpenVR
  - Embeded
    - STM32, AURIX, WCH
-
  - PCB Design
    - BLDC motor driver
  - Web
    - Flask, Django, Vue.js
+```
 
-[Personal website](https://www.santiego.ink/)
 
 <!--
 **MrAMS/MrAMS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
