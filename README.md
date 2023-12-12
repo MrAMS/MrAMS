@@ -5,7 +5,7 @@
 </p>
 
 ```cpp
-theMeaningOfLife✨ createSomethingFun();
+theMeaningOfLife✨ createSomethingFun😀();
 ```
 
 ---
@@ -16,9 +16,10 @@ Played:
  - DIP/CG
    - OpenCV, OpenGL, OpenVR
  - Chips
-   - STM32, AURIX, WCH, PYNQ-Z2(ZYNQ) 
+   - STM32, AURIX, WCH, NXP, PYNQ-Z2(ZYNQ) 
  - PCB Design
    - BLDC motor driver
+   - NXP MCU board
  - Web
    - Flask, Django, Vue.js, Docker
 Now fcus on:
