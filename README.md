@@ -1,24 +1,29 @@
-👋 Hello! I'm Santiego.
+<h3 align="center"> 👋 Hello! I'm Santiego. </h3>
 
-
+<p align="center">
 [Personal website](https://www.santiego.ink/)
+</p>
 
 ```cpp
 theMeaningOfLife✨ createSomethingFun();
 ```
+
 ---
 ```
-Played:
+**Played**:
  - Architecture
    - RISC-V
  - DIP/CG
    - OpenCV, OpenGL, OpenVR
- - Embeded
-   - STM32, AURIX, WCH
+ - Chips
+   - STM32, AURIX, WCH, PYNQ-Z2(ZYNQ) 
  - PCB Design
    - BLDC motor driver
  - Web
-   - Flask, Django, Vue.js
+   - Flask, Django, Vue.js, Docker
+**Now focus on**:
+ - RISC-V CPU
+ - Digital Rock Modeling
 ```
 
 
