@@ -1,7 +1,7 @@
 <h3 align="center"> 👋 Hello! I'm Santiego. </h3>
 
 <p align="center">
- 📝<a href="https://www.santiego.ink" target="_blank">Personal website</a>
+ 📝<a href="https://www.santiego.ink" target="_blank">My blog</a>
 </p>
 
 ```cpp
