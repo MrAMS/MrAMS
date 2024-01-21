@@ -23,7 +23,7 @@ Played:
    - NXP MCU board
  - Web
    - Flask, Django, Vue.js, Docker
-Now fcus on:
+Now focus on:
  - RISC-V CPU
  - Digital Rock Modeling
 ```
