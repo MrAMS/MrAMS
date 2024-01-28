@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://files.catbox.moe/9q0g16.webp" alt="Banner" style="max-height: 10rem;">
+</p>
+
 <h3 align="center"> 👋 Hello! I'm Santiego. </h3>
 
 <p align="center">
