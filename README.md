@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://files.catbox.moe/9q0g16.webp" alt="Banner" style="max-height: 10rem;">
-</p>
-
 <h3 align="center"> 👋 Hello! I'm Santiego. </h3>
 
 <p align="center">
@@ -15,21 +11,20 @@ theMeaningOfLife✨ createSomethingFun😀();
 
 ---
 ```
-Played:
+🔭 Played:
  - Architecture
    - RISC-V
  - DIP/CG
    - OpenCV, OpenGL, OpenVR
- - Chips
+ - Embedded
    - STM32, AURIX, WCH, NXP, PYNQ-Z2(ZYNQ) 
  - PCB Design
-   - BLDC motor driver
-   - NXP MCU board
+   - BLDC motor driver, MCU board
  - Web
    - Flask, Django, Vue.js, Docker
-Now focus on:
- - RISC-V CPU
- - Digital Rock Modeling
+🌱 Now focus on:
+ - RISC-V CPU Design
+ - Digital Rock Modeling & VR Presentation
 ```
 
 
