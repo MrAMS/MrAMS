@@ -4,11 +4,6 @@
  📝<a href="https://www.santiego.ink" target="_blank">My blog</a>
 </p>
 
-```cpp
-// Me.hpp
-theMeaningOfLife✨ createSomethingFun😀();
-```
-
 ---
 ```
 🔭 Played:
