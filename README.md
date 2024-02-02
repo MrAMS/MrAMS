@@ -7,7 +7,7 @@
 ```
 🔭 Played:
  - Architecture
-   - RISC-V
+   - RISC-V, LoongArch
  - DIP/CG
    - OpenCV, OpenGL, OpenVR
  - Embedded
