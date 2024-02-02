@@ -4,7 +4,6 @@
  📝<a href="https://www.santiego.ink" target="_blank">My blog</a>
 </p>
 
----
 ```
 🔭 Played:
  - Architecture
