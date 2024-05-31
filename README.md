@@ -1,4 +1,4 @@
-<h3 align="center"> 👋 Hello! I'm Santiego. </h3>
+<h3 align="center"> 👋 Hello! I'm Kika<i>(Santiego)</i>. </h3>
 
 <p align="center">
  📝<a href="https://www.santiego.ink" target="_blank">My blog</a>
@@ -17,8 +17,8 @@
  - Web
    - Flask, Django, Vue.js, Docker
 🌱 Now focus on:
- - RISC-V CPU Design
- - Digital Rock Modeling & VR Presentation
+ - CPU Design
+ - CUDA
 ```
 
 
