@@ -16,6 +16,8 @@
    - BLDC motor driver, MCU board
  - Web
    - Flask, Django, Vue.js, Docker
+ - Language
+   - Modern C++, C, Python, Verilog, Scala, Javascript/HTML5/CSS3, Typst/LaTex
 🌱 Now focus on:
  - CPU Design
  - CUDA
