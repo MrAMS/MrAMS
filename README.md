@@ -7,7 +7,7 @@
 ```
 🔭 Played:
  - Architecture
-   - RISC-V, LoongArch
+   - RISC-V, LoongArch, CUDA
  - DIP/CG
    - OpenCV, OpenGL, OpenVR
  - Embedded
@@ -19,8 +19,9 @@
  - Language
    - Modern C++, C, Python, Verilog, Scala, Javascript/HTML5/CSS3, Typst/LaTex
 🌱 Now focus on:
- - CPU Design
- - CUDA
+ - RISC-V Superscalar CPU
+ - Scheme
+ - PS1 Architecture
 ```
 
 
