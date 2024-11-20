@@ -19,6 +19,7 @@
  - Language
    - Modern C++, C, Python, Verilog, Scala, Javascript/HTML5/CSS3, Typst/LaTex
 🌱 Now focus on:
+ - DSA
  - RISC-V Superscalar CPU
  - Scheme
  - PS1 Architecture
