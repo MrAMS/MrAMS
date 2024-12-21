@@ -4,6 +4,11 @@
  📝<a href="https://www.kika233.tech" target="_blank">My blog</a>
 </p>
 
+<div style="display: flex;justify-content: space-between;">
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrAMS&theme=github_dark"  alt="github-repos-per-language" />
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrAMS&theme=github_dark"  alt="github-stats" />
+</div>
+
 ```
 🔭 Played:
  - Architecture
