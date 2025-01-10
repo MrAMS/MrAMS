@@ -22,11 +22,10 @@
  - Web
    - Flask, Django, Vue.js, Docker
  - Language
-   - Modern C++, C, Python, Verilog, Scala, Javascript/HTML5/CSS3, Typst/LaTex
+   - Modern C++, C, Python, Verilog, Scala, Javascript/HTML5/CSS3, Scheme, Typst/LaTex
 🌱 Now focus on:
- - DSA
- - RISC-V Superscalar CPU
- - Scheme
+ - PIM DSA
+ - FPGA PCB
  - PS1 Architecture
 ```
 
