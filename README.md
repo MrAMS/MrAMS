@@ -25,8 +25,7 @@
    - Modern C++, C, Python, Verilog, Scala, Javascript/HTML5/CSS3, Scheme, Typst/LaTex
 🌱 Now focus on:
  - PIM DSA
- - FPGA PCB
- - PS1 Architecture
+ - AI Infra
 ```
 
 
