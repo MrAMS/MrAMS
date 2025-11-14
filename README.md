@@ -1,7 +1,7 @@
 <h3 align="center"> 👋 Hello! I'm Kika<i>(Santiego)</i>. </h3>
 
 <p align="center">
- 📝<a href="https://www.kika233.tech" target="_blank">My blog</a>
+ 📝Welcome to <a href="https://www.kika233.tech" target="_blank">my blog</a>
 </p>
 
 <div style="display: flex;justify-content: space-between;" align="center">
