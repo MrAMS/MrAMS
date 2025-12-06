@@ -1,8 +1,6 @@
-<h3 align="center"> 👋 Hello! I'm Kika<i>(Santiego)</i>. </h3>
+# Qijia Yang (Kika)
 
-<p align="center">
- 📝Welcome to <a href="https://www.kika233.tech" target="_blank">my blog</a>
-</p>
+Hi there 👋 I am a graduate student at ICT, UCAS, passionate about technology.
 
 <div style="display: flex;justify-content: space-between;" align="center">
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrAMS&theme=github_dark"  alt="github-repos-per-language" />
@@ -27,6 +25,10 @@
  - PIM DSA
  - AI Infra
 ```
+
+## Links
+
+- [Personal Website](https://www.kika233.tech)
 
 
 <!--
