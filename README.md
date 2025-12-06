@@ -29,6 +29,7 @@ Hi there 👋 I am a graduate student at ICT, UCAS, passionate about technology.
 ## Links
 
 - [Personal Website](https://www.kika233.tech)
+- [Collection of Publications and Side Projects](https://www.kika233.tech/blog/works)
 
 
 <!--
