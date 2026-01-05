@@ -31,7 +31,7 @@ Hi there 👋 I am a graduate student at ICT, UCAS, passionate about technology.
 - [Personal Website](https://www.kika233.tech)
 - [Collection of Publications and Side Projects](https://www.kika233.tech/blog/works)
 
-## Interesting Repos
+## Repos
 
 - [NagiCore](https://github.com/MrAMS/NagiCore): 凪 顺序单/双发射LA32R处理器（龙芯杯 2024）使用Chisel开发
 - [Nagi](https://github.com/MrAMS/Nagi): 基于difftest改进的CPU敏捷开发框架
