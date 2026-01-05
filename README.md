@@ -33,7 +33,8 @@ Hi there 👋 I am a graduate student at ICT, UCAS, passionate about technology.
 
 ## Interesting Repos
 
-- [NagiCore](https://github.com/MrAMS/NagiCore): 凪 顺序单/双发射LA32R处理器（龙芯杯 2025）- 使用Chisel开发
+- [NagiCore](https://github.com/MrAMS/NagiCore): 凪 顺序单/双发射LA32R处理器（龙芯杯 2024）使用Chisel开发
+- [Nagi](https://github.com/MrAMS/Nagi): 基于difftest改进的CPU敏捷开发框架
 - [QueFOC](https://github.com/Zen-and-the-Art-of-Balanced-Bike/QueFOC): 有感无刷电机 PCB电路板+驱动程序
 - [OpenSoC](https://github.com/MrAMS/OpenSoC): 开源复古掌机SoC，并移植了一些小游戏，FPGA上板验证
 - [Ez3DGL](https://github.com/MrAMS/Ez3DGL): 一个对OpenGL多层抽象封装的图形学渲染引擎
@@ -43,6 +44,8 @@ Hi there 👋 I am a graduate student at ICT, UCAS, passionate about technology.
 - [bazel_rules_verilator](https://github.com/MrAMS/bazel_rules_verilator): Bazel rules for Verilator-based SystemVerilog simulation
 - [zed-auto-file-header](https://github.com/MrAMS/zed-auto-file-header): A Zed extension that inserts a customizable file header
 - [Backup-Real-Matters](https://github.com/MrAMS/Backup-Real-Matters): Backup the most valuable files at the least cost 自动异地灾备脚本
+- [KiCad2EasyEDAGerber](https://github.com/MrAMS/KiCad2EasyEDAGerber): Convert KiCad gerber to EasyEDA gerber file
+- [RegCpp](https://github.com/MrAMS/RegCpp): Chisel-style Reg in cpp - C++17 实现类似Chisel风格的时序逻辑
 
 
 <!--
