@@ -33,22 +33,28 @@ Hi there 👋 I am a graduate student at ICT, UCAS, passionate about technology.
 
 ## Repos
 
-- [NagiCore](https://github.com/MrAMS/NagiCore): 凪 顺序单/双发射LA32R处理器（龙芯杯 2024）使用Chisel开发
-- [Nagi](https://github.com/MrAMS/Nagi): 基于difftest改进的CPU敏捷开发框架
-- [QueFOC](https://github.com/Zen-and-the-Art-of-Balanced-Bike/QueFOC): 有感无刷电机 PCB电路板+驱动程序
-- [OpenSoC](https://github.com/MrAMS/OpenSoC): 开源复古掌机SoC，并移植了一些小游戏，FPGA上板验证
-- [Ez3DGL](https://github.com/MrAMS/Ez3DGL): 一个对OpenGL多层抽象封装的图形学渲染引擎
-- [Smart-Search-PDFs](https://github.com/MrAMS/Smart-Search-PDFs): 智能 PDF 搜索引擎 - 基于语义向量和 BM25 的混合搜索系统
-- [LBI](https://github.com/MrAMS/LBI): 一个本地动画视频管理软件
+- Chips
+	- [NagiCore](https://github.com/MrAMS/NagiCore): 凪 顺序单/双发射LA32R处理器（龙芯杯 2024）使用Chisel开发
+	- [Nagi](https://github.com/MrAMS/Nagi): 基于difftest改进的CPU敏捷开发框架
+	- [OpenSoC](https://github.com/MrAMS/OpenSoC): 开源复古掌机SoC，并移植了一些小游戏，FPGA上板验证
+	- [RegCpp](https://github.com/MrAMS/RegCpp): Chisel-style Reg in cpp - C++17 实现类似Chisel风格的时序逻辑
+- Hardware
+	- [QueFOC](https://github.com/Zen-and-the-Art-of-Balanced-Bike/QueFOC): 有感无刷电机 PCB电路板+驱动程序
+	- [KiCad2EasyEDAGerber](https://github.com/MrAMS/KiCad2EasyEDAGerber): Convert KiCad gerber to EasyEDA gerber file
+- Software
+	- [Ez3DGL](https://github.com/MrAMS/Ez3DGL): 一个对OpenGL多层抽象封装的图形学渲染引擎
+	- [Smart-Search-PDFs](https://github.com/MrAMS/Smart-Search-PDFs): 智能 PDF 搜索引擎 - 基于语义向量和 BM25 的混合搜索系统
+	- [LBI](https://github.com/MrAMS/LBI): 一个本地动画视频管理软件
+	- [Backup-Real-Matters-v2](https://github.com/MrAMS/Backup-Real-Matters-v2): Backup the most valuable files at the least cost 自动异地灾备脚本
 - Bazel
 	- [bazel_rules_verilog](https://github.com/MrAMS/bazel_rules_verilog)
  	- [bazel_rules_chisel](https://github.com/MrAMS/bazel_rules_chisel)
 	- [bazel_rules_verilator](https://github.com/MrAMS/bazel_rules_verilator): Bazel rules for Verilator-based SystemVerilog simulation
 	- [bazel-cleaner](https://github.com/MrAMS/bazel-cleaner): A lightweight Bash utility to analyze local Bazel caches
-- [zed-auto-file-header](https://github.com/MrAMS/zed-auto-file-header): A Zed extension that inserts a customizable file header
-- [Backup-Real-Matters](https://github.com/MrAMS/Backup-Real-Matters): Backup the most valuable files at the least cost 自动异地灾备脚本
-- [KiCad2EasyEDAGerber](https://github.com/MrAMS/KiCad2EasyEDAGerber): Convert KiCad gerber to EasyEDA gerber file
-- [RegCpp](https://github.com/MrAMS/RegCpp): Chisel-style Reg in cpp - C++17 实现类似Chisel风格的时序逻辑
+- Zed extensions
+	- [zed-auto-file-header](https://github.com/MrAMS/zed-auto-file-header): A Zed extension that inserts a customizable file header
+ 	- [zed-firrtl-source-locator](https://github.com/MrAMS/zed-firrtl-source-locator): A Zed extension for FIRRTL/Chisel source locator comments `(@[...:257:{27,31,48,72}])`
+
 
 
 <!--
