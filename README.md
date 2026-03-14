@@ -40,8 +40,11 @@ Hi there 👋 I am a graduate student at ICT, UCAS, passionate about technology.
 - [Ez3DGL](https://github.com/MrAMS/Ez3DGL): 一个对OpenGL多层抽象封装的图形学渲染引擎
 - [Smart-Search-PDFs](https://github.com/MrAMS/Smart-Search-PDFs): 智能 PDF 搜索引擎 - 基于语义向量和 BM25 的混合搜索系统
 - [LBI](https://github.com/MrAMS/LBI): 一个本地动画视频管理软件
-- [bazel-cleaner](https://github.com/MrAMS/bazel-cleaner): A lightweight Bash utility to analyze local Bazel caches
-- [bazel_rules_verilator](https://github.com/MrAMS/bazel_rules_verilator): Bazel rules for Verilator-based SystemVerilog simulation
+- Bazel
+	- [bazel_rules_verilog](https://github.com/MrAMS/bazel_rules_verilog)
+ 	- [bazel_rules_chisel](https://github.com/MrAMS/bazel_rules_chisel)
+	- [bazel_rules_verilator](https://github.com/MrAMS/bazel_rules_verilator): Bazel rules for Verilator-based SystemVerilog simulation
+	- [bazel-cleaner](https://github.com/MrAMS/bazel-cleaner): A lightweight Bash utility to analyze local Bazel caches
 - [zed-auto-file-header](https://github.com/MrAMS/zed-auto-file-header): A Zed extension that inserts a customizable file header
 - [Backup-Real-Matters](https://github.com/MrAMS/Backup-Real-Matters): Backup the most valuable files at the least cost 自动异地灾备脚本
 - [KiCad2EasyEDAGerber](https://github.com/MrAMS/KiCad2EasyEDAGerber): Convert KiCad gerber to EasyEDA gerber file
